@@ -4,8 +4,8 @@
 
 ---
 
-[![Follow Me On Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdpcleitao)](https://www.twitter.com/dpcleitao/) 
-[![Connect With Me On Linkedin](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/dpcleitao/)
+[![Follow Me On Twitter](https://img.shields.io/twitter/follow/dpcleitao?style=social)](https://www.twitter.com/dpcleitao/) 
+[![Connect With Me On Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/dpcleitao/)
 
 Over the last ten years, I’ve worked specifically in the Product space, and I currently work as the Director of Product at Skoot in London. My journey into this space has been an exciting one, as I initially co-founded two businesses in the early stages of my career.
 
