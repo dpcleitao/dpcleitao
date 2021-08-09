@@ -1,12 +1,11 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dan Leitão!
 
----
-
 ##### _If you like this Github Setup, I have a [How To Github Profile](https://danleitao.com/github_profile_guide) h/t [@Catalinpint)](https://github.com/catalinpit)_
 
+---
 
-[![Follow Me On Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdpcleitao)](https://www.twitter.com/dpcleitao/) ]
-[![Connect With Me On Linkedin](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/dpcleitao/)]
+[![Follow Me On Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdpcleitao)](https://www.twitter.com/dpcleitao/) 
+[![Connect With Me On Linkedin](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/dpcleitao/)
 
 Over the last ten years, I’ve worked specifically in the Product space, and I currently work as the Director of Product at Skoot in London. My journey into this space has been an exciting one, as I initially co-founded two businesses in the early stages of my career.
 
