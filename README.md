@@ -1,9 +1,12 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dan Leitão!
 
-_If you like this Github Setup, I have a [How To Github Profile](https://danleitao.com/github_profile_guide) h/t [@Catalinpint)](https://github.com/catalinpit)_
 ---
 
-[![Follow Me On Twitter](https://img.shields.io/badge/twitter-dpcleitao-lightgrey)](https://www.youtube.com/channel/UCl1IRCSmm74qhcFNPTHcbMg?sub_confirmation=1) 
+##### _If you like this Github Setup, I have a [How To Github Profile](https://danleitao.com/github_profile_guide) h/t [@Catalinpint)](https://github.com/catalinpit)_
+
+
+[![Follow Me On Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdpcleitao)](https://www.twitter.com/dpcleitao/) ]
+[![Connect With Me On Linkedin](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/dpcleitao/)]
 
 Over the last ten years, I’ve worked specifically in the Product space, and I currently work as the Director of Product at Skoot in London. My journey into this space has been an exciting one, as I initially co-founded two businesses in the early stages of my career.
 
@@ -21,12 +24,12 @@ London has definitely become my home, and it’s given me a lot of opportunities
 
 ---
 
-## &#x1f4c8; My GitHub Stats
+<!-- ## &#x1f4c8; My GitHub Stats
 __
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpcleitao&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpcleitao&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpcleitao&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
