@@ -1,71 +1,34 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Catalin Pit!
-
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dan Leitão!
+_If you like this Github Setup, I have a [How To Github Profile](https://danleitao.com/github_profile_guide) h/t [@Catalinpint)](https://github.com/catalinpit)_
 ---
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCl1IRCSmm74qhcFNPTHcbMg?label=People%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UCl1IRCSmm74qhcFNPTHcbMg?sub_confirmation=1) [![Twitter Follow](https://img.shields.io/twitter/follow/catalinmpit?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=catalinmpit) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCl1IRCSmm74qhcFNPTHcbMg?label=Total%20views%20on%20my%20channel&style=social)](https://www.youtube.com/channel/UCl1IRCSmm74qhcFNPTHcbMg?sub_confirmation=1)
+[![Follow Me On Twitter](https://img.shields.io/badge/twitter-dpcleitao-lightgrey)](https://www.youtube.com/channel/UCl1IRCSmm74qhcFNPTHcbMg?sub_confirmation=1) 
 
-A Software Engineer specializing in JavaScript technologies and AWS. Professional experience with the technologies listed in the **toolbox** below.
+Over the last ten years, I’ve worked specifically in the Product space, and I currently work as the Director of Product at Skoot in London. My journey into this space has been an exciting one, as I initially co-founded two businesses in the early stages of my career.
 
-I create tech content, mostly about Web Development and JavaScript, **but** I also talk about other topics than coding. I'd advise you to subscribe to stay up-to-date!
+These endeavours gave me invaluable knowledge - not just about Product, but about people management, sales development and operational processes. Having an entrepreneurial mindset naturally progressed into working for varying start-ups, a world that has always intrigued me.
 
-I managed to create an online presence with my [Blog](https://catalins.tech) and [YouTube](https://catalins.tech/youtube) channel, which are accessed by more than 3500 people monthly. Looking forward to reaching and helping more people by sharing my knowledge.
+Start-ups aren’t for everybody, but I feel like it’s given me a different perspective and approach to a lot of my day to day professional life, whether it’s managing teams or refining processes. The constant shifts and innovations excite me - I guess you could say that I love organised chaos?
 
----
+With a blend of skill sets and experiences, I’ve also taken a great interest in consulting, and I’m always open to connecting with those looking for advice on strategy and people management.
 
-🧰 Toolbox
+Although I’ve lived and worked in London for the past five years, I’m originally from Connecticut where I lived most of my life. I’ve also enjoyed working and gaining experiences from all over the world, and have spent time in Dubai, Paris and Puerto Rico.
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="50" height="50"/> <img src="https://nuxtjs.org/logos/nuxtjs-typo.svg" alt="Nuxt" width="90" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/keystonejs.svg" alt="KeystoneJS" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> 
-
----
-
-📺 Latest YouTube Videos
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Build a Voting App for Tech Courses with GraphCMS and Nuxt](https://www.youtube.com/watch?v=bsOHkdYFSK4)
-- [Demo of GitHub Copilot](https://www.youtube.com/watch?v=edSZh-tpTIk)
-- [GitHub Copilot - Will Artificial Intelligence Replace Developers?](https://www.youtube.com/watch?v=uwfhDNxR_Zw)
-- [A Beginner's Guide To The File System Module In Node.js](https://www.youtube.com/watch?v=QkwHP4d01xA)
-- [Track Job Applications With Notion API, Node.js and FastifyJS](https://www.youtube.com/watch?v=QOY86u423BU)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
+London has definitely become my home, and it’s given me a lot of opportunities to explore my other interests such as AI and Machine Learning, and of course - Football. If you’re a Liverpool or Celtic fan, we need to talk!
 
 
-▶ [...more YouTube videos](https://www.youtube.com/channel/UCl1IRCSmm74qhcFNPTHcbMg?sub_confirmation=1)
-
----
-
-📘 Latest Blog Articles
-
-<!-- BLOG-POST-LIST:START -->
-- [Getting Started With Open-Source: How To Contribute As A Beginner](https://catalins.tech/getting-started-with-open-source-how-to-contribute-as-a-beginner)
-- [Create Custom API Endpoints in Nuxt](https://catalins.tech/create-custom-api-endpoints-in-nuxt)
-- [GraphCMS + Nuxt.js - Vote Your Favourite Tech Courses](https://catalins.tech/graphcms-nuxtjs-vote-your-favourite-tech-courses)
-- [GitHub Copilot - Will Artificial Intelligence Replace Developers?](https://catalins.tech/github-copilot-will-artificial-intelligence-replace-developers)
-- [Learn How To Use MySQL With Node.js And Docker](https://catalins.tech/learn-how-to-use-mysql-with-nodejs-and-docker)
-<!-- BLOG-POST-LIST:END -->
-
-▶ [...more blog articles](https://catalins.tech)
 
 ---
 
 ## &#x1f4c8; My GitHub Stats
+__
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catalinpit&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpcleitao&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalinpit&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpcleitao&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
-**catalinpit/catalinpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
