@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="18px">, I am Dan Leitão!
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="width:30px">, I am Dan Leitão!
 
 ##### _If you like this Github Setup, I have a [How To Github Profile](https://danleitao.com/github_profile_guide) h/t [@Catalinpint)](https://github.com/catalinpit)_
 
